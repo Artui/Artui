@@ -2,7 +2,10 @@
 
 <p align="center">
   <a href="https://github.com/Artui">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=3776AB&center=true&vCenter=true&width=640&lines=Declare+an+operation+once%2C+serve+it+everywhere;REST%2C+HTML%2C+CLI%2C+MCP+and+AI+agents+from+one+spec;Agent+hosts+and+chat+UIs+for+Django;100%25+coverage%2C+typed%2C+released+through+OIDC" alt="Typing tagline">
+    <picture>
+      <source media="(prefers-reduced-motion: reduce)" srcset="assets/tagline.svg">
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=3776AB&center=true&vCenter=true&width=640&lines=Declare+an+operation+once%2C+serve+it+everywhere;REST%2C+HTML%2C+CLI%2C+MCP+and+AI+agents+from+one+spec;Agent+hosts+and+chat+UIs+for+Django;100%25+coverage%2C+typed%2C+released+through+OIDC" alt="Declare an operation once, serve it everywhere">
+    </picture>
   </a>
 </p>
 
